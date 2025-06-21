@@ -13,7 +13,7 @@ Netflix, a global leader in video streaming, aims to better understand its conte
 - Analyze viewing trends, genres, sentiments, and release behaviors.
 
 ## 📁 Dataset Overview
-### 📥 Dataset: [netflix.csv](https://drive.google.com/file/d/1iRmihWqevBA_nEHWhWesVObj9gcA2u0a/view?usp=drive_link)
+### 📥 Dataset: [netflix.csv](https://github.com/AkanshaSaini761/Netflix_Data_Exploration_and_Visualisation_Case_Study/blob/main/netflix.csv)
 The dataset includes metadata on Netflix's catalog of Movies and TV Shows.
 
 | Column         | Description                                               |
@@ -118,4 +118,4 @@ The dataset includes metadata on Netflix's catalog of Movies and TV Shows.
 ## 📄 Output Report
 
 All visualizations, analysis code, and insights are documented in the PDF file:
-📎 [netflix_case_study_akansha_saini.pdf](https://drive.google.com/file/d/18an1toFPFSjvsCm9jxsu8bkr4D0wuVq9/view?usp=drive_link)
+📎 [netflix_case_study_akansha_saini.pdf](https://github.com/AkanshaSaini761/Netflix_Data_Exploration_and_Visualisation_Case_Study/blob/main/netflix_case_study_akansha_saini.pdf)
